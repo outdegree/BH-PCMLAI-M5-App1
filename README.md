@@ -1,5 +1,15 @@
 # Berkley Haas - Professional Certificate in Machine Learning and Artificial Intelligence - Module 5 - Practical Application 1
 
+Table of Contents
+- [Background](#background)
+- [Will a Customer Accept the Coupon?](#will-a-customer-accept-the-coupon)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+    - [Overview of Data](#overview-of-data)
+    - [Deep Dive into Bars](#deep-dive-into-bars)
+    - [Occupation](#occupation)
+    - [Traveler's Destination](#travelers-destination)
+    - [Next Steps](#next-steps)
+
 ## Background
 
 This is a demonstration of application of skills learned during Part 1 of the program; Modules 1 to 5.
