@@ -1,4 +1,4 @@
-# Berkley Haas - Professional Certificate in Machine Learning and Artificial Intelligence - Module 5 - Practical Application 1
+# Berkeley Haas - Professional Certificate in Machine Learning and Artificial Intelligence - Module 5 - Practical Application 1
 
 Table of Contents
 - [Background](#background)
